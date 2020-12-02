@@ -1,7 +1,7 @@
 # Front-end
 Front-end que utiliza o serviço de REST API.
 
-Desenvolvido utlizando 
+Desenvolvido utlizando as seguintes bibliotecas, frameworks e linguagens:
 > HTML5
 
 > CSS
@@ -16,6 +16,6 @@ Desenvolvido utlizando
 
 > SweetAlert2 (via CDN)
 
-> PHP
+> PHP (para o layout/tema do sistema)
 
 Copiar/extrair os arquivos para que sejam acessados na url `http://localhost/front-end/`.
