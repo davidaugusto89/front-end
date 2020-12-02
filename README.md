@@ -6,15 +6,15 @@ Desenvolvido utlizando as seguintes bibliotecas, frameworks e linguagens:
 
 > CSS
 
-> BootStrap (via CDN)
+> BootStrap
 
-> Font Awesome (via CDN)
+> Font Awesome
 
 > JavaScript
 
-> JQuery (via CDN)
+> JQuery
 
-> SweetAlert2 (via CDN)
+> SweetAlert2
 
 > PHP (para o layout/tema do sistema)
 
