@@ -25,10 +25,10 @@
             <h1 class="h3 mb-3 text-center">Login</h1>
 
             <label for="inputEmail" class="mt-2">E-mail</label>
-            <input type="email" id="email" name="email" class="form-control" placeholder="Endereço de e-mail" required value="davidakhaddad@gmail.com">
+            <input type="email" id="email" name="email" class="form-control" placeholder="Endereço de e-mail" required>
 
             <label for="inputPassword" class="mt-2">Senha</label>
-            <input type="password" id="senha" name="senha" class="form-control" placeholder="Senha" required value="1234">
+            <input type="password" id="senha" name="senha" class="form-control" placeholder="Senha" required>
 
             <button class="btn btn-lg btn-primary btn-block mt-3" type="button" onclick="submitForm();"><i class="fas fa-sign-in-alt"></i> Logar</button>
           </div>
