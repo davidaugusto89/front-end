@@ -12,6 +12,16 @@ Desenvolvido utlizando as seguintes bibliotecas, frameworks e linguagens:
 * PHP >= 7.0
 * REST
 
+## Requisitos básicos
+
+PHP >= 7.3
+
+MySQL
+
+Composer
+
+Git
+
 
 ## Guia de Instalação
 
