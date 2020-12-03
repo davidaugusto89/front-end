@@ -15,7 +15,7 @@ Desenvolvido utlizando as seguintes bibliotecas, frameworks e linguagens:
 
 ## Guia de Instalação
 
-Para instalar a aplicação deve ser executados os seguintes comandos no terminal, no diretório desejado.
+Para instalar a aplicação, deve ser executados os seguintes comandos no terminal do diretório publico do servidor PHP (www ou public_html).
 
 ```sh
 git clone https://github.com/davidaugusto89/front-end front-end
