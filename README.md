@@ -18,7 +18,7 @@ Desenvolvido utlizando as seguintes bibliotecas, frameworks e linguagens:
 Para instalar a aplicação deve ser executados os seguintes comandos no terminal, no diretório desejado.
 
 ```sh
-git clone -b develop https://github.com/davidaugusto89/front-end front-end
+git clone https://github.com/davidaugusto89/front-end front-end
 cd front-end
 php -S localhost:4200
 ```
