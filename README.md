@@ -9,12 +9,12 @@ Desenvolvido utlizando as seguintes bibliotecas, frameworks e linguagens:
 * JavaScript
 * JQuery
 * SweetAlert2
-* PHP >= 7.0
+* PHP
 * REST
 
 ## Requisitos básicos
 
-PHP >= 7.3
+PHP >= 7
 
 MySQL
 
