@@ -2,25 +2,34 @@
 Front-end que utiliza o serviço de REST API.
 
 Desenvolvido utlizando as seguintes bibliotecas, frameworks e linguagens:
-> HTML5
+* HTML5
+* CSS
+* BootStrap
+* Font Awesome
+* JavaScript
+* JQuery
+* SweetAlert2
+* PHP >= 7.0
+* REST
 
-> CSS
 
-> BootStrap
+## Guia de Instalação
 
-> Font Awesome
+Para instalar a aplicação deve ser executados os seguintes comandos no terminal, no diretório desejado.
 
-> JavaScript
+```sh
+git clone -b develop https://github.com/davidaugusto89/rest-api.git rest-api
+cd rest-api
+php -S localhost:4200
+```
 
-> JQuery
 
-> SweetAlert2
+## URL para acesso
 
-> PHP (para o layout/tema do sistema)
+Para acessar a aplicação no navegador deve ser utilizando a seguinte url:
 
-> REST
+[http://localhost:4200](http://localhost:4200)
 
-Copiar/extrair os arquivos para que sejam acessados na url `http://localhost/front-end/`.
 
 ## Login
 
